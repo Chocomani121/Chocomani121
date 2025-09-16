@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my github 
+A passionate developer who loves building cool projects and learning new tech.
 
 <!--
 **Chocomani121/Chocomani121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
